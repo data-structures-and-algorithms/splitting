@@ -13,7 +13,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "commentsOnly": true,
           "name": "Markdown"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/README.md",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/README.md",
         "projectPath": "README.md",
         "targetPath": "index",
         "pageTitle": "index",
@@ -33,7 +33,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/alloc.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/alloc.js",
         "projectPath": "js/src/alloc.js",
         "targetPath": "alloc",
         "pageTitle": "alloc",
@@ -53,7 +53,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/argmax.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/argmax.js",
         "projectPath": "js/src/argmax.js",
         "targetPath": "argmax",
         "pageTitle": "argmax",
@@ -73,7 +73,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/argmin.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/argmin.js",
         "projectPath": "js/src/argmin.js",
         "targetPath": "argmin",
         "pageTitle": "argmin",
@@ -93,7 +93,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/copy.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/copy.js",
         "projectPath": "js/src/copy.js",
         "targetPath": "copy",
         "pageTitle": "copy",
@@ -113,7 +113,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/each.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/each.js",
         "projectPath": "js/src/each.js",
         "targetPath": "each",
         "pageTitle": "each",
@@ -133,7 +133,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/fill.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/fill.js",
         "projectPath": "js/src/fill.js",
         "targetPath": "fill",
         "pageTitle": "fill",
@@ -153,7 +153,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/get.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/get.js",
         "projectPath": "js/src/get.js",
         "targetPath": "get",
         "pageTitle": "get",
@@ -173,7 +173,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/iota.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/iota.js",
         "projectPath": "js/src/iota.js",
         "targetPath": "iota",
         "pageTitle": "iota",
@@ -201,7 +201,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/chain.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/chain.js",
             "projectPath": "js/src/map/chain.js",
             "targetPath": "map/chain",
             "pageTitle": "map/chain",
@@ -221,7 +221,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/combinations.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/combinations.js",
             "projectPath": "js/src/map/combinations.js",
             "targetPath": "map/combinations",
             "pageTitle": "map/combinations",
@@ -241,7 +241,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/combinationswithrepetition.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/combinationswithrepetition.js",
             "projectPath": "js/src/map/combinationswithrepetition.js",
             "targetPath": "map/combinationswithrepetition",
             "pageTitle": "map/combinationswithrepetition",
@@ -261,7 +261,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/compress.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/compress.js",
             "projectPath": "js/src/map/compress.js",
             "targetPath": "map/compress",
             "pageTitle": "map/compress",
@@ -281,7 +281,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/dropwhile.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/dropwhile.js",
             "projectPath": "js/src/map/dropwhile.js",
             "targetPath": "map/dropwhile",
             "pageTitle": "map/dropwhile",
@@ -301,7 +301,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/enumerate.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/enumerate.js",
             "projectPath": "js/src/map/enumerate.js",
             "targetPath": "map/enumerate",
             "pageTitle": "map/enumerate",
@@ -321,7 +321,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/filter.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/filter.js",
             "projectPath": "js/src/map/filter.js",
             "targetPath": "map/filter",
             "pageTitle": "map/filter",
@@ -341,7 +341,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/filterfalse.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/filterfalse.js",
             "projectPath": "js/src/map/filterfalse.js",
             "targetPath": "map/filterfalse",
             "pageTitle": "map/filterfalse",
@@ -361,7 +361,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/group.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/group.js",
             "projectPath": "js/src/map/group.js",
             "targetPath": "map/group",
             "pageTitle": "map/group",
@@ -381,7 +381,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/islice.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/islice.js",
             "projectPath": "js/src/map/islice.js",
             "targetPath": "map/islice",
             "pageTitle": "map/islice",
@@ -401,7 +401,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/map.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/map.js",
             "projectPath": "js/src/map/map.js",
             "targetPath": "map/map",
             "pageTitle": "map/map",
@@ -421,7 +421,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/permutations.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/permutations.js",
             "projectPath": "js/src/map/permutations.js",
             "targetPath": "map/permutations",
             "pageTitle": "map/permutations",
@@ -441,7 +441,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/product.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/product.js",
             "projectPath": "js/src/map/product.js",
             "targetPath": "map/product",
             "pageTitle": "map/product",
@@ -461,7 +461,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/repeat.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/repeat.js",
             "projectPath": "js/src/map/repeat.js",
             "targetPath": "map/repeat",
             "pageTitle": "map/repeat",
@@ -481,7 +481,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/reversed.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/reversed.js",
             "projectPath": "js/src/map/reversed.js",
             "targetPath": "map/reversed",
             "pageTitle": "map/reversed",
@@ -501,7 +501,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/sorted.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/sorted.js",
             "projectPath": "js/src/map/sorted.js",
             "targetPath": "map/sorted",
             "pageTitle": "map/sorted",
@@ -521,7 +521,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/starmap.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/starmap.js",
             "projectPath": "js/src/map/starmap.js",
             "targetPath": "map/starmap",
             "pageTitle": "map/starmap",
@@ -541,7 +541,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/takewhile.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/takewhile.js",
             "projectPath": "js/src/map/takewhile.js",
             "targetPath": "map/takewhile",
             "pageTitle": "map/takewhile",
@@ -561,7 +561,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/map/zip.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/map/zip.js",
             "projectPath": "js/src/map/zip.js",
             "targetPath": "map/zip",
             "pageTitle": "map/zip",
@@ -583,7 +583,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/max.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/max.js",
         "projectPath": "js/src/max.js",
         "targetPath": "max",
         "pageTitle": "max",
@@ -603,7 +603,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/min.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/min.js",
         "projectPath": "js/src/min.js",
         "targetPath": "min",
         "pageTitle": "min",
@@ -623,7 +623,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/realloc.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/realloc.js",
         "projectPath": "js/src/realloc.js",
         "targetPath": "realloc",
         "pageTitle": "realloc",
@@ -651,7 +651,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/reduce/all.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/reduce/all.js",
             "projectPath": "js/src/reduce/all.js",
             "targetPath": "reduce/all",
             "pageTitle": "reduce/all",
@@ -671,7 +671,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/reduce/any.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/reduce/any.js",
             "projectPath": "js/src/reduce/any.js",
             "targetPath": "reduce/any",
             "pageTitle": "reduce/any",
@@ -691,7 +691,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/reduce/reduce.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/reduce/reduce.js",
             "projectPath": "js/src/reduce/reduce.js",
             "targetPath": "reduce/reduce",
             "pageTitle": "reduce/reduce",
@@ -711,7 +711,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/reduce/sum.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/reduce/sum.js",
             "projectPath": "js/src/reduce/sum.js",
             "targetPath": "reduce/sum",
             "pageTitle": "reduce/sum",
@@ -733,7 +733,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/repr.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/repr.js",
         "projectPath": "js/src/repr.js",
         "targetPath": "repr",
         "pageTitle": "repr",
@@ -753,7 +753,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/reverse.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/reverse.js",
         "projectPath": "js/src/reverse.js",
         "targetPath": "reverse",
         "pageTitle": "reverse",
@@ -773,7 +773,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/rotate.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/rotate.js",
         "projectPath": "js/src/rotate.js",
         "targetPath": "rotate",
         "pageTitle": "rotate",
@@ -793,7 +793,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/set.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/set.js",
         "projectPath": "js/src/set.js",
         "targetPath": "set",
         "pageTitle": "set",
@@ -813,7 +813,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/slice.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/slice.js",
         "projectPath": "js/src/slice.js",
         "targetPath": "slice",
         "pageTitle": "slice",
@@ -833,7 +833,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/sort.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/sort.js",
         "projectPath": "js/src/sort.js",
         "targetPath": "sort",
         "pageTitle": "sort",
@@ -853,7 +853,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/splice.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/splice.js",
         "projectPath": "js/src/splice.js",
         "targetPath": "splice",
         "pageTitle": "splice",
@@ -873,7 +873,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/split.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/split.js",
         "projectPath": "js/src/split.js",
         "targetPath": "split",
         "pageTitle": "split",
@@ -893,7 +893,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/swap.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/swap.js",
         "projectPath": "js/src/swap.js",
         "targetPath": "swap",
         "pageTitle": "swap",
@@ -913,7 +913,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-array/js/src/swapranges.js",
+        "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/swapranges.js",
         "projectPath": "js/src/swapranges.js",
         "targetPath": "swapranges",
         "pageTitle": "swapranges",
@@ -941,7 +941,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/utils/pick.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/utils/pick.js",
             "projectPath": "js/src/utils/pick.js",
             "targetPath": "utils/pick",
             "pageTitle": "utils/pick",
@@ -961,7 +961,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/utils/range.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/utils/range.js",
             "projectPath": "js/src/utils/range.js",
             "targetPath": "utils/range",
             "pageTitle": "utils/range",
@@ -981,7 +981,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/aureooms/dev/js/js-array/js/src/utils/tee.js",
+            "sourcePath": "/home/aureooms/dev/js/js-splitting/js/src/utils/tee.js",
             "projectPath": "js/src/utils/tee.js",
             "targetPath": "utils/tee",
             "pageTitle": "utils/tee",
