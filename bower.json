@@ -13,9 +13,9 @@
 		"inch.json",
 		".codeclimate.yml"
 	],
-	"main": "js/dist/array.js",
-	"name": "aureooms-js-array",
+	"main": "js/dist/splitting.js",
+	"name": "aureooms-js-splitting",
 	"version": "2.2.1",
-	"homepage": "http://aureooms.github.io/js-array/",
-	"description": "array manipulation code bricks for JavaScript"
+	"homepage": "http://aureooms.github.io/js-splitting/",
+	"description": "array splitting code bricks for JavaScript"
 }

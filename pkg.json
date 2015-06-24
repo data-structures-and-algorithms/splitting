@@ -1,11 +1,11 @@
 {
-	"name": "array",
+	"name": "splitting",
 	"debug": false,
 	"code": {
 		"main": [
 			"js",
 			"dist",
-			"array.js"
+			"splitting.js"
 		],
 		"test": [
 			"test",

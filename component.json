@@ -1,11 +1,11 @@
 {
-	"name": "aureooms-js-array",
-	"repo": "aureooms/js-array",
+	"name": "aureooms-js-splitting",
+	"repo": "aureooms/js-splitting",
 	"scripts": [
-		"js/dist/array.js"
+		"js/dist/splitting.js"
 	],
 	"version": "2.2.1",
-	"description": "array manipulation code bricks for JavaScript",
-	"main": "js/dist/array.js",
+	"description": "array splitting code bricks for JavaScript",
+	"main": "js/dist/splitting.js",
 	"license": "AGPL-3.0"
 }
