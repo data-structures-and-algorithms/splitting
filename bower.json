@@ -15,7 +15,7 @@
 	],
 	"main": "js/dist/splitting.js",
 	"name": "aureooms-js-splitting",
-	"version": "4.0.1",
+	"version": "4.0.2",
 	"homepage": "http://aureooms.github.io/js-splitting/",
 	"description": "array splitting code bricks for JavaScript"
 }

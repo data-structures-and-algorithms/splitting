@@ -14,7 +14,7 @@
 		"build": "./node_modules/.bin/aureooms-node-package-build"
 	},
 	"dependencies": {},
-	"version": "4.0.1",
+	"version": "4.0.2",
 	"bugs": {
 		"url": "https://github.com/aureooms/js-splitting/issues"
 	},
