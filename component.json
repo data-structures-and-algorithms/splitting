@@ -4,7 +4,7 @@
 	"scripts": [
 		"js/dist/splitting.js"
 	],
-	"version": "4.0.0",
+	"version": "4.0.1",
 	"description": "array splitting code bricks for JavaScript",
 	"main": "js/dist/splitting.js",
 	"license": "AGPL-3.0"
