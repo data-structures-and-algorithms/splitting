@@ -1,4 +1,5 @@
-#[js-splitting](http://aureooms.github.io/js-splitting)
+[js-splitting](http://aureooms.github.io/js-splitting)
+==
 
 Splitting code bricks for JavaScript.
 
