@@ -1,38 +1,38 @@
 {
-  "license": "AGPL-3.0",
-  "homepage": "http://aureooms.github.io/js-splitting/",
-  "main": "js/dist/splitting.js",
-  "name": "aureooms-js-splitting",
-  "author": "aureooms",
-  "devDependencies": {
-    "aureooms-js-array": "^2.2.1",
-    "aureooms-node-package": "^4.2.5"
-  },
-  "scripts": {
-    "doc": "./node_modules/.bin/groc",
-    "test": "./node_modules/.bin/aureooms-node-package-test",
-    "build": "./node_modules/.bin/aureooms-node-package-build"
-  },
-  "dependencies": {},
-  "version": "3.0.0",
-  "bugs": {
-    "url": "https://github.com/aureooms/js-splitting/issues"
-  },
-  "description": "array splitting code bricks for JavaScript",
-  "keywords": [
-    "array",
-    "bricks",
-    "ender",
-    "javascript",
-    "js",
-    "split",
-    "splitting"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/aureooms/js-splitting.git"
-  },
-  "spm": {
-    "main": "js/dist/splitting.js"
-  }
+	"license": "AGPL-3.0",
+	"homepage": "http://aureooms.github.io/js-splitting/",
+	"main": "js/dist/splitting.js",
+	"name": "aureooms-js-splitting",
+	"author": "aureooms",
+	"devDependencies": {
+		"aureooms-js-array": "^2.2.1",
+		"aureooms-node-package": "^4.2.5"
+	},
+	"scripts": {
+		"doc": "./node_modules/.bin/groc",
+		"test": "./node_modules/.bin/aureooms-node-package-test",
+		"build": "./node_modules/.bin/aureooms-node-package-build"
+	},
+	"dependencies": {},
+	"version": "4.0.0",
+	"bugs": {
+		"url": "https://github.com/aureooms/js-splitting/issues"
+	},
+	"description": "array splitting code bricks for JavaScript",
+	"keywords": [
+		"array",
+		"bricks",
+		"ender",
+		"javascript",
+		"js",
+		"split",
+		"splitting"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aureooms/js-splitting.git"
+	},
+	"spm": {
+		"main": "js/dist/splitting.js"
+	}
 }
