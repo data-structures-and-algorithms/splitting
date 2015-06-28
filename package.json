@@ -31,5 +31,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/aureooms/js-splitting.git"
+  },
+  "spm": {
+    "main": "js/dist/splitting.js"
   }
 }
