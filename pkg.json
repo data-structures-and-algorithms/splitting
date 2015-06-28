@@ -13,5 +13,6 @@
 		]
 	},
 	"src": "js/src/",
-	"out": "js/dist/"
+	"out": "js/dist/",
+	"babel" : true
 }

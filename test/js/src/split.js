@@ -1,8 +1,8 @@
 
 
-var one;
+var array = require( "aureooms-js-array" ) ;
 
-one = function ( f, a, i, j ) {
+var one = function ( f, a, i, j ) {
 
 	var b, p, k, n;
 
@@ -12,9 +12,11 @@ one = function ( f, a, i, j ) {
 
 	array.copy( a, 0, n, b, 0 );
 
-	p = array.split( f, a, i, j );
+	p = splitting.hoare( f, a, i, j );
 
 	ok ( p >= i, JSON.stringify( [ a, i, j, "p >= i", p ] ) );
+
+	ok ( p <= j, JSON.stringify( [ a, i, j, "p <= j", p ] ) );
 
 	for ( k = 0 ; k < i ; ++k ) {
 		deepEqual( a[k], b[k], JSON.stringify( [ a, i, j, "a[k] === b[k]", k ] ) );
@@ -33,9 +35,9 @@ one = function ( f, a, i, j ) {
 	}
 
 
-};
+} ;
 
-test( "split", function () {
+test( "split" , function ( ) {
 
 	one ( function ( x ) {
 		return + ( x > 1 );
@@ -69,6 +71,4 @@ test( "split", function () {
 		return + ( x > 1 );
 	}, [1, 1, 1, 1, 1], 1, 5, [1, 1, 1, 1, 1] );
 
-
-
-});
+} ) ;

@@ -1,5 +1,4 @@
 
-
 /**
  * rearranges an array in a lower [i, p[ and higher part [p, j[
  *
@@ -9,31 +8,26 @@
  * @return {int} p the position of the first element of the higher part
  */
 
-var split = function ( predicate, a, i, j ) {
+let hoare = function ( predicate , a , i , j ) {
 
-	var x, y, tmp;
+	let x = i - 1 ;
+	let y = j ;
+	let tmp ;
 
-	x = i - 1;
-	y = j;
-
-	outer : while ( true ) {
+	while ( true ) {
 
 		// search from right to left for an item
 		// at the wrong place
 
 		while ( true ) {
 
-			--y;
+			--y ;
 
-			if ( x === y ) {
-				break outer;
-			}
+			if ( x === y ) return x + 1 ;
 
-			tmp = a[y];
+			tmp = a[y] ;
 
-			if ( predicate( tmp ) === 0 ) {
-				break;
-			}
+			if ( predicate( tmp ) === 0 ) break ;
 
 		}
 
@@ -42,30 +36,21 @@ var split = function ( predicate, a, i, j ) {
 
 		while ( true ) {
 
-			++x;
+			++x ;
 
-			if ( x === y ) {
-				break outer;
-			}
+			if ( x === y ) return x + 1 ;
 
-			if ( predicate( a[x] ) === 1 ) {
-				break;
-			}
+			if ( predicate( a[x] ) === 1 ) break ;
 
 		}
 
 		// swap elements that are at the wrong place
 
-		a[y] = a[x];
-		a[x] = tmp;
+		a[y] = a[x] ;
+		a[x] = tmp ;
 
 	}
 
-	// note a[y] could be different from tmp
-	// x === y
+} ;
 
-	return y + 1 - ( y >= i && predicate( a[y] ) );
-
-};
-
-exports.split = split;
+exports.hoare = hoare;
