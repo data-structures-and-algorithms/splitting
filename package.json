@@ -5,7 +5,7 @@
 	"name": "aureooms-js-splitting",
 	"author": "aureooms",
 	"devDependencies": {
-		"aureooms-js-array": "^3.0.0",
+		"aureooms-js-array": "^4.0.0",
 		"aureooms-node-package": "^4.2.5"
 	},
 	"scripts": {
