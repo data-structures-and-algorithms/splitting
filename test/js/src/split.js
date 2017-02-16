@@ -1,6 +1,6 @@
 
 
-var array = require( "aureooms-js-array" ) ;
+var array = require( "@aureooms/js-array" ) ;
 
 var one = function ( f, a, i, j ) {
 
