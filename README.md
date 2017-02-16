@@ -10,7 +10,7 @@ for ( let k of itertools.range(  left , pivot , 1 ) ) predicate( array[k] ) ; //
 for ( let k of itertools.range( pivot , right , 1 ) ) predicate( array[k] ) ; // 1
 ```
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-splitting.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-splitting/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-splitting.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-splitting/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-splitting.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-splitting)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-splitting.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-splitting)
 [![Build Status](https://img.shields.io/travis/aureooms/js-splitting.svg?style=flat)](https://travis-ci.org/aureooms/js-splitting)
