@@ -10,15 +10,15 @@ for ( let k of itertools.range(  left , pivot , 1 ) ) predicate( array[k] ) ; //
 for ( let k of itertools.range( pivot , right , 1 ) ) predicate( array[k] ) ; // 1
 ```
 
-[![NPM license](http://img.shields.io/npm/l/aureooms-js-splitting.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-splitting/master/LICENSE)
-[![NPM version](http://img.shields.io/npm/v/aureooms-js-splitting.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-splitting)
-[![Bower version](http://img.shields.io/bower/v/aureooms-js-splitting.svg?style=flat)](http://bower.io/search/?q=aureooms-js-splitting)
+[![NPM license](http://img.shields.io/npm/l/@aureooms/js-splitting.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-splitting/master/LICENSE)
+[![NPM version](http://img.shields.io/npm/v/@aureooms/js-splitting.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-splitting)
+[![Bower version](http://img.shields.io/bower/v/@aureooms/js-splitting.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-splitting)
 [![Build Status](http://img.shields.io/travis/aureooms/js-splitting.svg?style=flat)](https://travis-ci.org/aureooms/js-splitting)
 [![Coverage Status](http://img.shields.io/coveralls/aureooms/js-splitting.svg?style=flat)](https://coveralls.io/r/aureooms/js-splitting)
 [![Dependencies Status](http://img.shields.io/david/aureooms/js-splitting.svg?style=flat)](https://david-dm.org/aureooms/js-splitting#info=dependencies)
 [![devDependencies Status](http://img.shields.io/david/dev/aureooms/js-splitting.svg?style=flat)](https://david-dm.org/aureooms/js-splitting#info=devDependencies)
 [![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-splitting.svg?style=flat)](https://codeclimate.com/github/aureooms/js-splitting)
-[![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-splitting.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-splitting)
+[![NPM downloads per month](http://img.shields.io/npm/dm/@aureooms/js-splitting.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-splitting)
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-splitting.svg?style=flat)](https://github.com/aureooms/js-splitting/issues)
 [![Inline docs](http://inch-ci.org/github/aureooms/js-splitting.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-splitting)
 
@@ -38,7 +38,7 @@ and [npm](https://github.com/npm/npm).
 ```terminal
 jspm install github:aureooms/js-splitting
 # or
-jspm install npm:aureooms-js-splitting
+jspm install npm:@aureooms/js-splitting
 ```
 ### duo
 No install step needed for duo!
@@ -50,27 +50,27 @@ component install aureooms/js-splitting
 
 ### bower
 ```terminal
-bower install aureooms-js-splitting
+bower install @aureooms/js-splitting
 ```
 
 ### ender
 ```terminal
-ender add aureooms-js-splitting
+ender add @aureooms/js-splitting
 ```
 
 ### jam
 ```terminal
-jam install aureooms-js-splitting
+jam install @aureooms/js-splitting
 ```
 
 ### spm
 ```terminal
-spm install aureooms-js-splitting --save
+spm install @aureooms/js-splitting --save
 ```
 
 ### npm
 ```terminal
-npm install aureooms-js-splitting --save
+npm install @aureooms/js-splitting --save
 ```
 
 ## Require
@@ -78,7 +78,7 @@ npm install aureooms-js-splitting --save
 ```js
 let splitting = require( "github:aureooms/js-splitting" ) ;
 // or
-import splitting from 'aureooms-js-splitting' ;
+import splitting from '@aureooms/js-splitting' ;
 ```
 ### duo
 ```js
@@ -87,17 +87,17 @@ let splitting = require( "aureooms/js-splitting" ) ;
 
 ### component, ender, spm, npm
 ```js
-let splitting = require( "aureooms-js-splitting" ) ;
+let splitting = require( "@aureooms/js-splitting" ) ;
 ```
 
 ### bower
 The script tag exposes the global variable `splitting`.
 ```html
-<script src="bower_components/aureooms-js-splitting/js/dist/splitting.min.js"></script>
+<script src="bower_components/@aureooms/js-splitting/js/dist/splitting.min.js"></script>
 ```
 Alternatively, you can use any tool mentioned [here](http://bower.io/docs/tools/).
 
 ### jam
 ```js
-require( [ "aureooms-js-splitting" ] , function ( splitting ) { ... } ) ;
+require( [ "@aureooms/js-splitting" ] , function ( splitting ) { ... } ) ;
 ```
