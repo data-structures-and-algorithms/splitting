@@ -2,10 +2,10 @@
 	"license": "AGPL-3.0",
 	"homepage": "http://aureooms.github.io/js-splitting/",
 	"main": "js/dist/splitting.js",
-	"name": "aureooms-js-splitting",
+	"name": "@aureooms/js-splitting",
 	"author": "aureooms",
 	"devDependencies": {
-		"aureooms-js-array": "^3.0.0",
+		"@aureooms/js-array": "^3.0.0",
 		"aureooms-node-package": "^4.2.5"
 	},
 	"scripts": {
