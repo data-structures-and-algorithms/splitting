@@ -1,4 +1,4 @@
-[js-splitting](http://aureooms.github.io/js-splitting)
+[js-splitting](http://make-github-pseudonymous-again.github.io/js-splitting)
 ==
 
 Splitting code bricks for JavaScript. Parent is [aureooms/js-algo](http://github.com/aureooms/js-algo).

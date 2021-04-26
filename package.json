@@ -1,6 +1,6 @@
 {
 	"license": "AGPL-3.0",
-	"homepage": "http://aureooms.github.io/js-splitting/",
+	"homepage": "http://make-github-pseudonymous-again.github.io/js-splitting/",
 	"main": "js/dist/splitting.js",
 	"name": "@aureooms/js-splitting",
 	"author": "aureooms",
